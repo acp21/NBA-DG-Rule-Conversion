@@ -138,8 +138,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bf7a10e3e4a7c1a4",
+  "active": "fe865383c7e6c5eb",
   "lastOpenFiles": [
+    "templates/session.md",
+    "templates",
     "scripts/getSessionNum.js",
     "scripts/getSessionFilename.js",
     "scripts/getLastSessionFilename.js",
