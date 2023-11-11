@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "1435761a3cac5f6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e65313d6a82f316f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf7a10e3e4a7c1a4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7dab4ba6b202d4df",
+    "type": "split",
+    "children": [
+      {
+        "id": "51fa7a1c09ef0973",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe865383c7e6c5eb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6d790080769bc68a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2663cb24ac00f46b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "70a25fee9a27f9e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfbf2ed8ae870942",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5efd72e81a548d04",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4b34f8dc8e66205b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ec6f2edd6eda27c8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "aee06219238b0ba7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bf7a10e3e4a7c1a4",
+  "lastOpenFiles": [
+    "scripts/getSessionNum.js",
+    "scripts/getSessionFilename.js",
+    "scripts/getLastSessionFilename.js",
+    "scripts",
+    "rule_conversion/Weapons Tables.md",
+    "rule_conversion/Suggested Backgrounds.md",
+    "rule_conversion/Skills.md",
+    "rule_conversion/Skill Mapping.md",
+    "rule_conversion/Sanity.md",
+    "rule_conversion/Money.md",
+    "rule_conversion/Improvement.md",
+    "rule_conversion/Heat.md",
+    "rule_conversion/Core Stats.md",
+    "rule_conversion/Combat.md",
+    "rule_conversion/Cherries.md",
+    "rule_conversion/Chases.md",
+    "rule_conversion",
+    "campaign/Campaign Overview.md",
+    "campaign/001_2023-11-4 Road To Tirnova.md",
+    "campaign"
+  ]
+}

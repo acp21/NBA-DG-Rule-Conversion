@@ -1,0 +1,60 @@
+---
+tags:
+  - system
+---
+See [[Cherries]] for information on cherry changes
+
+- Accounting
+- Archaeology
+- **Athletics** (DG. Athletics + Swim | NBA. **Athletics**)
+- Astronomy (NBA. Astronomy)
+- Art (DG. Art | NBA. Art | Every x% allows you to create a type of art)
+- **Alertness** (DG. Alertness | NBA. Sense Trouble)
+- **Demolitions** (DG Demolitions + Artillery | NBA **Explosive Devices**)
+- Bureaucracy
+- Cop Talk (NBA. Cop Talk)
+- **Conceal** (DG. Stealth | NBA. **Conceal**)
+- Chemistry (NBA. Chemistry)
+- Cryptography (DG. SIGINT + Computer Science | NBA Cryptography)
+- Criminology
+- Data Recovery (DG. SIGINT + Computer Science | NBA Data Recovery)
+- **Digital Intrusion** (DG. Computer Science | NBA. **Digital Intrusion**)
+- **Disguise**
+- Dodge (DG. Dodge)
+- **Driving** (DG. Drive | NBA. **Driving**)
+- **Firearms** (DG. Firearms | NBA. **Shooting**)
+- Electronic Surveillance (DG. SIGINT | NBA. Electronic Surveillance)
+- **First Aid** (DG. First Aid | NBA **Medic**)
+- Language (See languages rules | 20% for rudimentary, 40% for fluency)
+- Law
+- Forensics (DG. Forensics | NBA. Forensic Pathology)
+- Forgery (NBA. Forgery)
+- Human Terrain (DG. Anthropology | NBA. Human Terrain)
+- History
+- HUMINT (DG. HUMINT | NBA. Bullshit Detector)
+- Intimidation (NBA. Intimidation + Interrogation)
+- **Mechanics** (DG. Heavy Machinery + Artillery + Heavy Weapons | NBA. Mechanics + NBA. **Infiltration**  (use Infiltration cherry))
+- **Melee Weapons** (DG. Melee Weapons | NBA. **Weapons**)
+- Medicine (DG. Medicine | NBA. Diagnosis)
+- Military Science
+- Occult (DG. Occult | NBA. Occult Studies)
+- Outdoor Survival (DG. Survival | NBA. Outdoor Survival)
+- Persuade (DG. Persuade | NBA. Negotiation )
+- Pharmacy (20% to identify, roll to manufacture)
+- Photography (NBA. Photography)
+- **Piloting** (DG. Pilot | NBA. **Piloting**, new vehicle / x%)
+- **Psychotherapy** (DG. Psychotherapy | NBA. **Shrink**)
+- **Physical Surveillance** (NBA. **Surveillance**)
+- Search (DG. Search | NBA. Notice)
+- **Stealth** (DG. Stealth | NBA. Infiltration + Filch (no cherry))
+- Streetwise (NBA. Streetwise)
+- Surgery (DG. Surgery)
+- Tradecraft (NBA. Tradecraft, starts at 20%)
+- Traffic Analysis (DG. Computer Science + SIGINT | NBA. Traffic Analysis)
+- Urban Survival (DG. Navigate | NBA. Urban Survival (familiar cities %x / city))
+- **Unarmed Combat** (DG. Unarmed Combat | NBA. **Hand-To-Hand**)
+- Vampirology (NBA. Vampirology)
+
+***Unique Abilities***
+- Cover: 10 Points starting
+- Network: 5 Points starting
