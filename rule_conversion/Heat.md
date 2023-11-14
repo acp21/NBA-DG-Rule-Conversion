@@ -61,4 +61,4 @@ Heat drops by jursdiction based on the following table
 ### Protection
 An agent can create a Network contact to reduce their heat. Making a network roll against the Heat level will reduce the Heat level by the difference, assuming the roll passes. The players may also receive protection by doing a favour or mission for a powerful NPC. In some jurisdictions, Excessive Funds is enough to bribe for protection.
 ### Shifting Blame
-Pinning the blame on someone else can lower Heat. Using skills like Criminology to fake a gange massacre, Digital Intrusion to change surveillance footage, or Stealth to plant evidence. The amount of Heat removed is dependent on thoroughness and speed. Done in time, this will completely prevent any Heat.
+Pinning the blame on someone else can lower Heat. Using skills like Criminology to fake a gang massacre, Digital Intrusion to change surveillance footage, or Stealth to plant evidence. The amount of Heat removed is dependent on thoroughness and speed. Done in time, this will completely prevent any Heat.
