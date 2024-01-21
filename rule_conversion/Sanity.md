@@ -14,9 +14,9 @@ Your agent may have several different connections to the world which help them s
 
 | Source | Time Required | Sanity Regained | Sanity Lost |
 | ------ | ------------- | --------------- | ----------- |
-| Symbol | Minutes       | 1D4             | 1D6         |
-| Solace | 6 Hours       | 1D8             | 2D8         | 
-| Safety | 1 Day         | 1D10            | 1D12        |
+| Symbol | Minutes       | 1             | 1D4         |
+| Solace | 6 Hours       | 1D4             | 1D6         | 
+| Safety | 1 Day         | 1D6            | 1D8        |
 ### Symbol of Respite
 This is a non-human representation of something you value. a religious medal or crucifix, your country’s flag or your father’s dog tag, a picture of your innocent niece or a voice mail from your dead wife.
 ### Person of Solace
@@ -44,8 +44,6 @@ Each agent has a drive, once per session you may declare that a given action you
 | Collector          |                                                     |
 | Thrill-Seeker      | Adrenaline Junkie, Cheat death, take risks          |
 | Transparency       | Truth needs to be free, collect and reveal evidence |
-
-
 ## Preventing Sanity Loss
 At anytime that you would otherwise lose sanity, you can roll 1D4 and subtract 1D4 from your current WP and Solace Score to prevent the loss of that much sanity.
 

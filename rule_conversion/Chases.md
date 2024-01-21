@@ -41,16 +41,10 @@ Before the next round of chase begins, the runner can increase both difficulties
 | Fail       | Success | Keep or Lower        | Runner                               |
 | Success    | Success | Raise, Keep or Lower | Runner (Pursuer must agree to lower) | 
 
-## Thriller Rules
-The following are extra rules that can be used in chases
 ### Attacking During Chases
 Passengers in or on a vehicle may fire a weapon at -20% during a chase round (remember to check vehicle cover). The pursuer or runner in a chase may make an attack at -20% during a round by spending 3 points from the Combat: Firearms pool the respective chase pool, or a combination of the two. This increases the difficulty of the given chase round by 1. 
 #### Shooting Out Tires
 Shooting out tires or other vulnerable parts of a vehicle requires a Called Shot (The penalty for the Called Shot and the above penalty for attacking in a Chase stack). Loss of a tire increases difficulty of driving rolls by 1 (or -20% outside of chases). Losing 2 tires results in a crash. Solid or "run-flat" tires face no penalty when loss of 1 tire, and losing 2 tires increases difficulty by driving rolls by 1 (or -20% outside of chases).
-### Crashes And Falls
-See fall damage rules
-### Gear Devil
-See [[Cherries#Driving (Grand Theft Auto & Gear Devil)|Gear Devil]]. 
 ### Other Abilities
 During a chase any player character can use other abilities to provide benefits or detriments to either side of the chase. This requires a roll. Each ability can only be used once per chase, if one agent uses a given ability, another agent cannot use the same ability. The effects of this are based on the following table
 
@@ -62,14 +56,12 @@ During a chase any player character can use other abilities to provide benefits 
 | Opposition Pool Reduction | Putting the other side at a dramatic disadvantage |
 | Lead Change               | Putting the agents at a dramatic advantage        |
 | Special Rule Setup        | Prepare for Swerve or Sudden escape easier or earlier than usual                                                  |
-### Parkour
-See [[Cherries#Athletics (Hard to Hit, Parkour, Support Move, Breakfall)|Parkour]].
 ### Ramming
 A ram can only be attempted at Lead 1 or 2. Attempting a ram costs 3 points from their chase pool before any spends. The player will also roll, whether they are evading a ram or attempting to ram someone else. The results of a ram attempt are based on the following table.
 The base difficulty of a ram attempt is 4. On defence player adds vehicle's maneuver to the die roll + spends
 On offence the player add vehicles maneuver to the difficulty (this includes vehicles with negative maneuver)
 
-| Side    | Roll             | Result                                                                                   |
+| Player Side    | Roll             | Result                                                                                   |
 | ------- | ---------------- | ---------------------------------------------------------------------------------------- |
 | Defense | Fail             | Lead alters by 1, oppositions favor                                                      |
 | Defense | Nat. 1 + Fail    | Car Crash                                                                                |
