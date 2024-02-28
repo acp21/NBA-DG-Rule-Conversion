@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rule_conversion/Combat.md",
+                "file": "rule_conversion/Money.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a347e4a9440e10cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rule_conversion/Money.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rule_conversion/Combat.md",
+                "file": "rule_conversion/Money.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rule_conversion/Combat.md",
+                "file": "rule_conversion/Money.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rule_conversion/Combat.md"
+                "file": "rule_conversion/Money.md"
               }
             }
           }
@@ -173,15 +185,16 @@
   },
   "active": "bf7a10e3e4a7c1a4",
   "lastOpenFiles": [
-    "rule_conversion/Sanity.md",
-    "rule_conversion/Money.md",
     "rule_conversion/Weapons Tables.md",
+    "rule_conversion/Money.md",
+    "rule_conversion/Sanity.md",
+    "rule_conversion/Gear Table.md",
+    "rule_conversion/Cherries.md",
+    "rule_conversion/Combat.md",
     "rule_conversion/Heat.md",
     "rule_conversion/Chases.md",
-    "rule_conversion/Combat.md",
     "rule_conversion/Suggested Backgrounds.md",
     "rule_conversion/Character Generation.md",
-    "rule_conversion/Cherries.md",
     "rule_conversion/Skills.md",
     "Untitled.md",
     "rule_conversion/Skill Mapping.md",

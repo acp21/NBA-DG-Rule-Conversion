@@ -27,3 +27,5 @@ You may throw any balanced hand weapon (fighting knife, tomahawk, scalpel) at no
 Steal any standard civilian or police air or water vehicle with a successful piloting roll. You can also create bogus flight plans or port documents to allow rapid departure (Digital Intrusion may still be required to insert them into the proper database). 
 ## Psychotherapy (Talk It Out)
 +20% to HUMINT OR +1 [[Core Stats|CHA]] (Players choice)
+### Clarification Regarding Cherries That Add to Other Abilities
+Any cherry that adds to another ability score (Talk it Out, The Wire, etc...) apply their bonuses _before_ completion of your character, and thus, are also restricted to the same 80% skill cap that any other skill would be.

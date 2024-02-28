@@ -51,7 +51,7 @@ At anytime that you would otherwise lose sanity, you can roll 1D4 and subtract 1
 Anytime you would experience an acute disorder episode or temporary insanity, you may spend 1D4 WP and Solace Score to prevent the episode
 
 # Willpower
-Willpower represents your current mental strength to continue onward despite exhaustion.
+Willpower represents your current mental strength to continue onward despite exhaustion. It is generally lost during times of emotional stress, either from standard human challenges (staying dilligent during a long day of work), encountering extremely challenging situations (withstanding torture), or grappling with unknowable events (keeping it together when facing monsters).
 
 ## Low Willpower
 An agent whose WP goes to 2 or less has an emotional breakdown, they roll all skills at -20% until WP rises above 2
@@ -63,4 +63,11 @@ An agent at 0 WP loses all control. An agent with 0 WP is in complete control of
 An agent who gets a full night's sleep (but no more than once in a 24-hour period), he regains 1D6 WP
 
 ## Exhaustion
-TODO: Determine exhaustion rules
+Exhaustion occurs when going an entire night without sleep, or working for extended periods of time.
+
+# Mental Illnesses
+## Phobia
+Lose a total of 60% from skills of your choosing.  This loss can be split among multiple skills if you wish. You know have 6 points in an "obsession pool." You may use these points to increase a roll to escape, avoid, or combat your obsession by 10%. You recover these points once. Encountering the source of your phobia causes a 1d4 WP loss and requires a POW roll to avoid lashing out or fleeing at the fear. If the source of your phobia is a group of people, all interpersonal contact with this group is at -20% permanently.
+
+## Paranoia
+**Overwrites Paranoia on P.71 of the Agents Handbook:** You struggle to trust others and constantly believe people are plotting against you. Entering any potentially dangerous or unknown situation costs 1D4 WP and requires a POW test to prevent taking extreme protective measures. You may no longer replenish a created network contact with build points, and adding to your total network pool costs 10 build points instead of 5.
